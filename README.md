@@ -7,7 +7,7 @@
 ## Run:
 
 - Clone this repository.<br /> 
-- Run `docker-compose-up` in your terminal.<br /> 
+- Run `docker-compose up` in your terminal.<br /> 
 - Visit `localhost:4001`<br /> 
 
 
